@@ -1,0 +1,27 @@
+*{
+    background-color: whitesmoke;
+    width: 550px;
+    margin: 0px auto;
+}
+
+.content{
+    background-color: #F6F6F6;
+    padding: 10px;
+    border: 3px double black;
+}
+
+.input{
+    box-sizing: border-box;
+    width: 150px;
+}
+
+.button{
+    width: 100px;
+    padding: 3px;
+}
+
+#mapa{
+    width: 300px;
+    box-sizing: content-box;
+    margin: 10px 10px 10px 0px;
+}

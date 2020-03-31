@@ -1,0 +1,2 @@
+let wynik = new Array;
+
